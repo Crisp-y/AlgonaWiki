@@ -1,0 +1,9 @@
+{
+  "openInNewTab": true,
+  "previewTabs": false,
+  "deduplicateTabs": true,
+  "deduplicateAcrossTabGroups": false,
+  "newTabPlacement": "after-active",
+  "newTabTabGroupPlacement": "same",
+  "modClickBehavior": "tab"
+}

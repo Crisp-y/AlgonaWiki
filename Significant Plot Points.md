@@ -1,0 +1,17 @@
+- Renée's pirates from episode 0
+- Attack on the [[Mana Corps]] with crystals
+- [[Clover]]'s whole deal
+	- attacking [[The Lyn's Share Trading Company]]
+	- attacking [[Willow Root Trading Company]]
+	- kidnapping [[Alecosta]]
+	- breaking into [[Deep Garden]]
+	- Being celestial but not aasimar, seemed to hate [[Renée Lightborn]]
+- [[Knight Feather Armada]] took credit for the threats before Clover's attacks
+- ? [[Neko Lightwing]]'s arrest?
+- [[The Earl King]] making a deal with [[Amalenia]] for the [[Deep Garden]]
+	- Things were going weird before then but also worse after
+- Mention of The Hermit in Amalenia's message
+- What happened to the Deep Garden?
+	- Dwarven automaton that broke in to the 
+- The Earl King knew Alecosta already...
+- Why are the episodes after EK's challenge named like dances?

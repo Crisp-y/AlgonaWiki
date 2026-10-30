@@ -1,0 +1,19 @@
+# Touch of the Fae
+- Wren goes to the [[Anna]] and [[Clover]] room
+	- [[Adelaide Pierce]] followed them and shares that she has now heard I received a message and while the ship's sensors did detect our magic, she should have been notified that I received a message and wasn't
+	- I explain that I don't know the full details but I trust her and I think it's the room
+	- Adelaide says I have her trust so I can go check the room out myself and then report back
+	- The dust is weird in the room
+	- Anna appears and we discuss, says the room is specific but she can't tell me because of contracts
+		- !! Who is Anna contracted with
+	- She wanted to but "dusted" off her law books to try
+	- She suggests laying me down and making me die a little so I do
+	- I feel her hands touch me and nails biting into my skin, then passing through my skin and making me feel ecstatic but painful
+	- She holds my heart and I die, a little, but then she lets go
+	- I have to be alone to talk to her in future
+	- "It *costs* to watch me interact with someone like this, I want you all to myself"
+		- !! Is this saying if I try to someone her non-privately, there's a consequence
+	- I feel her kiss my neck, and I look at the dust and can see the pattern, and I don't need to write it down because I can remember it and understand it
+	- The pattern of runes are in concentric circles with symbols between them like a 2D plait
+	- I tell the [[Adelaide Pierce]] and show her the symbol (Anna says naughty)
+	- She doesn't recognise it but it does surprise her, and we agree to keep each other up to date

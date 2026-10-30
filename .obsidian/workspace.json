@@ -1,0 +1,383 @@
+{
+  "main": {
+    "id": "88fd80921f1c45d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "51b8248b2902cad8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "504a47992cca68b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Things to do.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Things to do"
+            }
+          },
+          {
+            "id": "ff7c93bc4a63519e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guide to notation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guide to notation"
+            }
+          },
+          {
+            "id": "c21bc4488c538a24",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "EpisodeTitles.png"
+              },
+              "icon": "lucide-image",
+              "title": "EpisodeTitles"
+            }
+          },
+          {
+            "id": "f3d23444640c452c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Deep Garden.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deep Garden"
+            }
+          },
+          {
+            "id": "b7d61eca052b06d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 15 - A Fair(l)y Good Deal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 15 - A Fair(l)y Good Deal"
+            }
+          },
+          {
+            "id": "c7f68f2f346c4863",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 22 - Web of Corruption.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 22 - Web of Corruption"
+            }
+          },
+          {
+            "id": "61f75a76edea33a0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.5"
+            }
+          },
+          {
+            "id": "5ff4d7f4b1013a48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 21 - Lockstep Waltz.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 21 - Lockstep Waltz"
+            }
+          },
+          {
+            "id": "6359554a916c45b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Summaries.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Summaries"
+            }
+          },
+          {
+            "id": "206b9a85c7286564",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gods of Algona.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gods of Algona"
+            }
+          },
+          {
+            "id": "cfa5c9b459fb3615",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Significant Plot Points.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Significant Plot Points"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71026e02a14df674",
+    "type": "split",
+    "children": [
+      {
+        "id": "d35bfce82e49e09b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b371d6a51aee1cf6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e9780b798bc2ba23",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "mickae",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "caf6b83611759775",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "776e97912aac77be",
+    "type": "split",
+    "children": [
+      {
+        "id": "42550ffd473f867a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35aeffbc88fdc2c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sessions/Session 16 - A Bloomin Clue.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2196d5c8ce652672",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "462e1d04071e44d6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d828b919373f3533",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7c3f4b147175477d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "79e84bf8dcafb13e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "61f75a76edea33a0",
+  "lastOpenFiles": [
+    "Things to do.md",
+    "Significant Plot Points.md",
+    "Guide to notation.md",
+    "EpisodeTitles.png",
+    "Gods of Algona.md",
+    "Summaries.md",
+    "Sessions/Session 21 - Lockstep Waltz.md",
+    "Locations/Deep Garden.md",
+    "Sessions/Session 15 - A Fair(l)y Good Deal.md",
+    "Sessions/Session 22 - Web of Corruption.md",
+    "Sessions/Session 20 - Sunset Shuffle.md",
+    "Sessions/Session 19 - The Predator in the Dark.md",
+    "Characters/Clover.md",
+    "Templates/Session.md",
+    "Sessions/Session 18 - A Door Able to be Opened.md",
+    "Sessions/Session 17 - Down the Garden Path.md",
+    "Sessions/Session 16 - A Bloomin Clue.md",
+    "Player Characters/Alecosta.md",
+    "Characters/Iomadae.md",
+    "Player Characters/Renée Lightborn.md",
+    "Player Characters/Wren Littlefoot.md",
+    "Images/VaglondTaldiddle.png",
+    "Images/Torag.png",
+    "Images/LuciousLongclaw.png",
+    "Images/MilaDeEris.png",
+    "Images/Mikhail.png",
+    "Images/Erian.png",
+    "Images/Serena.png",
+    "Images/TormIronclaw.png",
+    "Images/JohanSkullcracker.png",
+    "Sessions/Session 03 - Catching Up.md",
+    "Sessions/Session 00 - The Loveliest Coincidence.md",
+    "Sessions/Session 14 - A Hole in the Wall and the Bricks do Fall.md",
+    "Images",
+    "Characters/Anna.md",
+    "Sessions/Session 13 - Bergamot and Black Terrors.md",
+    "Untitled.base",
+    "Other Plot Things",
+    "Player Characters",
+    "Templates",
+    "Locations",
+    "Organisations",
+    "Characters",
+    "Sessions"
+  ]
+}
