@@ -15,3 +15,5 @@
 	- Dwarven automaton that broke in to the 
 - The Earl King knew Alecosta already...
 - Why are the episodes after EK's challenge named like dances?
+- Tilly can be controlled or possessed and marked AUTPPC-01H
+	- !! is this the same H that Alecosta was summoned to in [[Session 21 - Lockstep Waltz]]

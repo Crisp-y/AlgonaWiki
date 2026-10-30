@@ -90,18 +90,6 @@
             }
           },
           {
-            "id": "61f75a76edea33a0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.14.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.14.5"
-            }
-          },
-          {
             "id": "5ff4d7f4b1013a48",
             "type": "leaf",
             "state": {
@@ -158,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -333,18 +321,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "61f75a76edea33a0",
+  "active": "cfa5c9b459fb3615",
   "lastOpenFiles": [
+    "Sessions/Session 21 - Lockstep Waltz.md",
+    "Sessions/Session 22 - Web of Corruption.md",
     "Things to do.md",
     "Significant Plot Points.md",
     "Guide to notation.md",
     "EpisodeTitles.png",
     "Gods of Algona.md",
     "Summaries.md",
-    "Sessions/Session 21 - Lockstep Waltz.md",
     "Locations/Deep Garden.md",
     "Sessions/Session 15 - A Fair(l)y Good Deal.md",
-    "Sessions/Session 22 - Web of Corruption.md",
     "Sessions/Session 20 - Sunset Shuffle.md",
     "Sessions/Session 19 - The Predator in the Dark.md",
     "Characters/Clover.md",
