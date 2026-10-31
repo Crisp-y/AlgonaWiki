@@ -48,82 +48,40 @@
             }
           },
           {
-            "id": "f3d23444640c452c",
+            "id": "524a8eaa2db7b0ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Deep Garden.md",
+                "file": "Sessions/Session 27 - Plant Diplomacy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deep Garden"
+              "title": "Session 27 - Plant Diplomacy"
             }
           },
           {
-            "id": "b7d61eca052b06d1",
+            "id": "53091b286389e630",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 15 - A Fair(l)y Good Deal.md",
+                "file": "Sessions/Session 28 - Religious (+) Nutjobs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 15 - A Fair(l)y Good Deal"
+              "title": "Session 28 - Religious (+) Nutjobs"
             }
           },
           {
-            "id": "c7f68f2f346c4863",
+            "id": "a09894b1f3d66f50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 22 - Web of Corruption.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 22 - Web of Corruption"
-            }
-          },
-          {
-            "id": "5ff4d7f4b1013a48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Session 21 - Lockstep Waltz.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 21 - Lockstep Waltz"
-            }
-          },
-          {
-            "id": "6359554a916c45b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Summaries.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Summaries"
-            }
-          },
-          {
-            "id": "206b9a85c7286564",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gods of Algona.md",
+                "file": "Characters/Gods of Algona.md",
                 "mode": "source",
                 "source": false
               },
@@ -132,21 +90,49 @@
             }
           },
           {
+            "id": "6359554a916c45b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other Plot Things/Summaries.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Summaries"
+            }
+          },
+          {
             "id": "cfa5c9b459fb3615",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Significant Plot Points.md",
+                "file": "Other Plot Things/Significant Plot Points.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Significant Plot Points"
             }
+          },
+          {
+            "id": "1fc0c8514782bcac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 00 - The Loveliest Coincidence.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 00 - The Loveliest Coincidence"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -180,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mickae",
+                "query": "Rysmo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -221,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 16 - A Bloomin Clue.md",
+                "file": "Sessions/Session 28 - Religious (+) Nutjobs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,12 +226,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Sessions/Session 24 - Archival Redirection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links"
             }
           },
           {
@@ -321,29 +307,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cfa5c9b459fb3615",
+  "active": "79e84bf8dcafb13e",
   "lastOpenFiles": [
-    "Sessions/Session 21 - Lockstep Waltz.md",
-    "Sessions/Session 22 - Web of Corruption.md",
-    "Things to do.md",
-    "Significant Plot Points.md",
+    "Sessions/Session 27 - Plant Diplomacy.md",
+    "Sessions/Session 28 - Religious (+) Nutjobs.md",
+    "Other Plot Things/Summaries.md",
+    "Sessions/Session 26 - Consuming Comfort and Careers.md",
+    "Sessions/Session 23.5 - Lesbian Pasta.md",
+    "Sessions/Session 25 - Religious Escapism.md",
     "Guide to notation.md",
-    "EpisodeTitles.png",
-    "Gods of Algona.md",
-    "Summaries.md",
-    "Locations/Deep Garden.md",
-    "Sessions/Session 15 - A Fair(l)y Good Deal.md",
-    "Sessions/Session 20 - Sunset Shuffle.md",
-    "Sessions/Session 19 - The Predator in the Dark.md",
+    "Sessions/Session 00 - The Loveliest Coincidence.md",
+    "Other Plot Things/Significant Plot Points.md",
     "Characters/Clover.md",
-    "Templates/Session.md",
+    "EpisodeTitles.png",
+    "Characters/Gods of Algona.md",
+    "Sessions/Session 24 - Archival Redirection.md",
+    "Sessions/Session 13 - Bergamot and Black Terrors.md",
+    "broken links output.md",
+    "Locations and Organisations/Trytal Empire.md",
+    "Things to do.md",
+    "Sessions/Session 23 - A Single Thread.md",
+    "Sessions/Session 23.5 - An Open Book.md",
+    "Sessions/Session 22 - Web of Corruption.md",
+    "Player Characters/Tilly.md",
+    "Sessions/Session 19 - The Predator in the Dark.md",
     "Sessions/Session 18 - A Door Able to be Opened.md",
-    "Sessions/Session 17 - Down the Garden Path.md",
     "Sessions/Session 16 - A Bloomin Clue.md",
-    "Player Characters/Alecosta.md",
-    "Characters/Iomadae.md",
+    "Sessions/Session 17 - Down the Garden Path.md",
     "Player Characters/Renée Lightborn.md",
-    "Player Characters/Wren Littlefoot.md",
+    "Player Characters/Alecosta.md",
     "Images/VaglondTaldiddle.png",
     "Images/Torag.png",
     "Images/LuciousLongclaw.png",
@@ -353,17 +345,12 @@
     "Images/Serena.png",
     "Images/TormIronclaw.png",
     "Images/JohanSkullcracker.png",
-    "Sessions/Session 03 - Catching Up.md",
-    "Sessions/Session 00 - The Loveliest Coincidence.md",
-    "Sessions/Session 14 - A Hole in the Wall and the Bricks do Fall.md",
     "Images",
-    "Characters/Anna.md",
-    "Sessions/Session 13 - Bergamot and Black Terrors.md",
     "Untitled.base",
     "Other Plot Things",
     "Player Characters",
     "Templates",
-    "Locations",
+    "Locations and Organisations",
     "Organisations",
     "Characters",
     "Sessions"

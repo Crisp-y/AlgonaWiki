@@ -1,3 +1,4 @@
+# //PERSONAL TO WREN
 # Touch of the Fae
 - Wren goes to the [[Anna]] and [[Clover]] room
 	- [[Adelaide Pierce]] followed them and shares that she has now heard I received a message and while the ship's sensors did detect our magic, she should have been notified that I received a message and wasn't

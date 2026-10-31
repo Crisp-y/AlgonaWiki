@@ -1,4 +1,5 @@
 Players: [[Wren Littlefoot]]
+# //PERSONAL TO WREN
 
 # Key Events
 - [REDACTED] had a rough day dealing with [[Borga Moté]] at the office
@@ -9,7 +10,7 @@ Players: [[Wren Littlefoot]]
 # Fun Events
 - [[Affra Hanali]] Fucks (sorry, touches base)
 - Borga Moté was using a farmer [[Kale Littleleaf]] to object to rules he made when he was in office
-- I had been ranting and threw a rock which hit wood of a tree much older than the Rysmoors
+- I had been ranting and threw a rock which hit wood of a tree much older than the [[Rysmoor Coalition]]
 - Anna seemed to keep encouraging Wren's anger, reigniting the rage
 - Wren agreed to Anna's deal if she gets to see her again
 - People who knew Redacted before, know Wren now.

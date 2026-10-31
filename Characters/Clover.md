@@ -1,3 +1,4 @@
+
 # Description
 - Fucking bastard
 - Six fingers
@@ -8,6 +9,10 @@
 	- Dahlia
 	- Orchid
 	- Hoya
+- Has natural mana circuitry
+
+
+
 ![[Clover.png]]
 
 # Connections

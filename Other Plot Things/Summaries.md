@@ -18,4 +18,12 @@
 18. Many puzzles deeper into the Deep Garden where a lone keeper prunes a beautiful private garden
 19. Meet Tilly and The Earl King, who asks to be entertained
 20. Explore the depths of the security and engineering operations of the Deep Garden
-21. 
+21. We explore the mechanics and workings behind the scenes of the Deep Garden
+22. The overseer is freed from corruption via spider construct combat
+23. Debrief with the overseer and establishing some business contracts
+	1. A couple 1-on-1 sessions in the Deep Garden
+24. We have some new looks, debrief with Leanne and the trading companies
+25. The team work on their own interests in their downtime
+26. A pleasant meal, and 2 job assignments
+27. Tilly and Wren start learning about the farming situation
+28. 

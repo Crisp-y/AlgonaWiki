@@ -7,7 +7,7 @@ Players: [[Wren Littlefoot]], [[Renée Lightborn]], [[Neko Lightwing]]
 - Lucius gives Neko a letter for her mother since she is the Lightwing heir
 - [[Torag]], Mikhail's brother visits (also an enforcer)
 - The warehouse is much the same as yesterday, Mila comes out of the office and Renée flirts, Mila might have grown up in the [[Divine Mercy]]?
-	- Tieflings in the [[Omnigramatom]] should be taken into the [[Order of Divine Children]]
+	- Tieflings in the [[Omnigrammaton Ascendancy]] should be taken into the [[Order of Divine Children]]
 	- Mila is surprised Renée is so chill, [[Iomadae]] hasn't called out the Mercy's behaviour
 	- Forced neutral over learning Renée's father, "Ask me sometime why I was in the order of divine children"
 - Wren got suddenly grabbed and it's fucking [[Clover]]

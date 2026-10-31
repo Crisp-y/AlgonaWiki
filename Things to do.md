@@ -3,6 +3,12 @@
 	- 47 deus ex alecosta
 	- 48 Lore relevant aftercare
 	- 49 t of ship crunchery
+- Weird episodes
+	- 34.5 is everyone present but only 20min long
+	- 39A dear friend daughter was Tilly downtime in cat court
+	- 39B Alecosta ""
+	- 39C  Wren ""
+- Names for Session 26-30
 - fill in [[broken links output]]
 - all of #TODO <- click me
 - 
