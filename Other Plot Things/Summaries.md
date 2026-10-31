@@ -26,4 +26,6 @@
 25. The team work on their own interests in their downtime
 26. A pleasant meal, and 2 job assignments
 27. Tilly and Wren start learning about the farming situation
-28. 
+28. Renée and Alecosta find the missing doctor in a predicament
+29. Tilly and Wren begin court proceedings with Stoatalby
+30. 
