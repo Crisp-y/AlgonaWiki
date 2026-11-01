@@ -19,7 +19,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[Heaven\Hell]] in [[Sessions/Session 03 - Catching Up]]
 - [[Divine Mercy]] in [[Sessions/Session 03 - Catching Up]], [[Sessions/Session 12 - Is the Greener Pastures]], [[Sessions/Session 13 - Bergamot and Black Terrors]], [[Sessions/Session 16 - A Bloomin Clue]], [[Sessions/Session 17 - Down the Garden Path]]
 - [[non-continentals]] in [[Sessions/Session 04 - Taking Off]], [[Sessions/Session 06 - The Whodunnit]]
-- [[Adelaide Pierce]] in [[Sessions/Session 04 - Taking Off]], [[Sessions/Session 05 - The Game Begins]], [[Sessions/Session 06 - The Whodunnit]], [[Sessions/Session 07 - The Lyn's Pride Celebrates]], [[Sessions/Session 07a - Wren's Encounter]], [[Things to do]]
+- [[Adelaide Pierce]] in [[Sessions/Session 04 - Taking Off]], [[Sessions/Session 05 - The Game Begins]], [[Sessions/Session 06 - The Whodunnit]], [[Sessions/Session 07 - The Lyn's Pride Celebrates]], [[Things to do]]
 - [[Felia]] in [[Sessions/Session 04 - Taking Off]], [[Sessions/Session 05 - The Game Begins]], [[Sessions/Session 06 - The Whodunnit]], [[Sessions/Session 07 - The Lyn's Pride Celebrates]], [[Things to do]]
 - [[Jackie "Tincap" Finch]] in [[Sessions/Session 04 - Taking Off]], [[Sessions/Session 05 - The Game Begins]], [[Sessions/Session 06 - The Whodunnit]], [[Sessions/Session 07 - The Lyn's Pride Celebrates]], [[Sessions/Session 09 - Gritty Fantasticism]], [[Things to do]]
 - [[Johan "Skullcracker" Toriss]] in [[Sessions/Session 04 - Taking Off]], [[Sessions/Session 05 - The Game Begins]], [[Sessions/Session 06 - The Whodunnit]], [[Things to do]]
