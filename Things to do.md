@@ -1,5 +1,5 @@
 - Write up episodes
-- Episodes 
+- Episodes titles since photo
 	- 47 deus ex alecosta
 	- 48 Lore relevant aftercare
 	- 49 t of ship crunchery
@@ -8,7 +8,6 @@
 	- 39A dear friend daughter was Tilly downtime in cat court
 	- 39B Alecosta ""
 	- 39C  Wren ""
-- Names for Session 26-30
 - fill in [[broken links output]]
 - all of #TODO <- click me
 - 

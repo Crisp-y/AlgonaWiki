@@ -28,4 +28,6 @@
 27. Tilly and Wren start learning about the farming situation
 28. Renée and Alecosta find the missing doctor in a predicament
 29. Tilly and Wren begin court proceedings with Stoatalby
-30. 
+30. Renée and Alecosta attempt a peaceful rescue, then have their prison break interrupted
+31. The team reunite, win the case and get summoned by Muta
+32. We learn of the possible attack on the expo and make our plans

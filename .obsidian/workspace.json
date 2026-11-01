@@ -48,7 +48,35 @@
             }
           },
           {
-            "id": "83055bf6e0799914",
+            "id": "ffa84a5e9f4bcfbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 31 - Policitcal Fudgery.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 31 - Policitcal Fudgery"
+            }
+          },
+          {
+            "id": "71b10e0b63c7a035",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 32 - Round Table Discussion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 32 - Round Table Discussion"
+            }
+          },
+          {
+            "id": "965c85f56a6f4fba",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -59,34 +87,6 @@
               },
               "icon": "lucide-file",
               "title": "Session 30 - Team Mean"
-            }
-          },
-          {
-            "id": "014636ca08966772",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wren/Backstory.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Backstory"
-            }
-          },
-          {
-            "id": "1e0b676a2fdcb396",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player Characters/Wren Littlefoot.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wren Littlefoot"
             }
           },
           {
@@ -102,37 +102,9 @@
               "icon": "lucide-file",
               "title": "Summaries"
             }
-          },
-          {
-            "id": "7a897f0d709324a6",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "broken links output.md",
-                "bFile": "broken links output.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: broken links output  (Working Tree)"
-            }
-          },
-          {
-            "id": "73c06ec9a793af76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "broken links output.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "broken links output"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -166,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Rysmo",
+                "query": "attack",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -307,37 +279,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73c06ec9a793af76",
+  "active": "6359554a916c45b8",
   "lastOpenFiles": [
+    "Sessions/Session 32 - Round Table Discussion.md",
     "Other Plot Things/Summaries.md",
-    "broken links output.md",
-    "Sessions/Session 20 - Sunset Shuffle.md",
-    "Other Plot Things/Significant Plot Points.md",
-    "Sessions/Session 02 - Rumble in the Mana Corps.md",
-    "Player Characters/Wren Littlefoot.md",
-    "Sessions/Session 08 - Adventure, and Snacks.md",
-    "Wren/Backstory.md",
+    "Sessions/Session 31 - Policitcal Fudgery.md",
     "Sessions/Session 30 - Team Mean.md",
+    "Sessions/Session 25 - Religious Escapism.md",
+    "Sessions/Session 04 - Taking Off.md",
+    "Other Plot Things/Significant Plot Points.md",
+    "Sessions/Session 16 - A Bloomin Clue.md",
+    "Sessions/Session 01 - Introducing the Agents of the Mana Corps.md",
+    "Sessions/Session 02 - Rumble in the Mana Corps.md",
+    "Sessions/Session 13 - Bergamot and Black Terrors.md",
+    "Things to do.md",
+    "Sessions/Session 15 - A Fair(l)y Good Deal.md",
+    "Sessions/Session 08 - Adventure, and Snacks.md",
+    "Sessions/Session 09 - Gritty Fantasticism.md",
+    "Sessions/Session 10 - Blights Out.md",
+    "Sessions/Session 11 - Shopping Episode 1.md",
+    "Sessions/Session 12 - Is the Greener Pastures.md",
+    "Sessions/Session 24 - Archival Redirection.md",
+    "Sessions/Session 26 - Consuming Comfort and Careers.md",
+    "Sessions/Session 27 - Plant Diplomacy.md",
+    "Sessions/Session 23 - A Single Thread.md",
+    "Sessions/Session 17 - Down the Garden Path.md",
+    "Sessions/Session 14 - A Hole in the Wall and the Bricks do Fall.md",
+    "Sessions/Session 07 - The Lyn's Pride Celebrates.md",
+    "EpisodeTitles.png",
+    "Guide to notation.md",
     "Wren",
     "New Text Document.txt",
-    "EpisodeTitles.png",
-    "Sessions/Session 28 - Religious (+) Nutjobs.md",
-    "Sessions/Session 27 - Plant Diplomacy.md",
-    "Sessions/Session 29 - Team Green.md",
-    "Characters/Gods of Algona.md",
-    "Sessions/Session 26 - Consuming Comfort and Careers.md",
-    "Sessions/Session 23.5 - Lesbian Pasta.md",
-    "Sessions/Session 25 - Religious Escapism.md",
-    "Guide to notation.md",
-    "Wren/Session 00 - The Loveliest Coincidence.md",
-    "Characters/Clover.md",
-    "Sessions/Session 24 - Archival Redirection.md",
-    "Sessions/Session 13 - Bergamot and Black Terrors.md",
-    "Locations and Organisations/Trytal Empire.md",
-    "Things to do.md",
-    "Sessions/Session 23 - A Single Thread.md",
-    "Wren/Session 23.5 - An Open Book.md",
-    "Sessions/Session 22 - Web of Corruption.md",
     "Images/VaglondTaldiddle.png",
     "Images/Torag.png",
     "Images/LuciousLongclaw.png",

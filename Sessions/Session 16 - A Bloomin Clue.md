@@ -10,6 +10,7 @@ Players: [[Wren Littlefoot]], [[Renée Lightborn]], [[Alecosta]]
 	- Show Leanne a mithril badge !! now know part of [[Hunters of Seliae]]
 - Dismiss jobs of clearing [[Neko Lightwing]]'s name, and finding [[Willow Root Trading Company]] employees to research [[Clover]]
 - Find [[Torag]] and [[Mikhail]] at the warehouse, hadn't known something was wrong
+	- Torag asks if Alecosta is Soyhi or Seliae
 - [[Mila De'Eris]], [[Agent Erian]], and [[Serena Bloomwood]] all there and mad we exposed the secret door
 - No sign of a rune circle, lack of footprints were the basement door was
 - Renée feels Clover as an angel having a fire sword is wrong

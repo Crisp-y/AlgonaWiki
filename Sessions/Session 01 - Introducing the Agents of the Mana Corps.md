@@ -15,6 +15,7 @@ Few years after [[Session 00 - The Loveliest Coincidence]]
 	- 6 other members too
 - Something explodes and dazzles us but we recover
 - 4 armed and hooded figures round up VIPs
+	- !! These later turn out to be the [[Heirs of the Mist]]
 
 # Fun Events
 - 

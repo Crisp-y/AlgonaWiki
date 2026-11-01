@@ -1,5 +1,6 @@
 - Renée's pirates from episode 0
 - Attack on the [[Mana Corps]] with crystals
+	- [[Heirs of the Mist]]
 - [[Clover]]'s whole deal
 	- attacking [[The Lyn's Share Trading Company]]
 	- attacking [[Willow Root Trading Company]]

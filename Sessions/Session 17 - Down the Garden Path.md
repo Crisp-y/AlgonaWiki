@@ -5,7 +5,7 @@ Players: [[Wren Littlefoot]], [[Renée Lightborn]], [[Alecosta]]
 - [[Mikhail]] flies us down, gives food, medicine, and a radio
 - Airship of the [[Heretic Apothecary]] from the [[Rookery]]
 - Meet [[Guiderook]], [[Dr Tern]], and [[Dr Stork]], kenku here to study and find herbal remedies
-- The kneku have [[David]]'s voice, relax at Renée being former [[Divine Mercy]] and give Wren a cure wounds crystal
+- The kenku have [[David]]'s voice, relax at Renée being former [[Divine Mercy]] and give Wren a cure wounds crystal
 - Alecosta tries to claim ownership but they know she doesn't have final say, she's surprised they know the [[Deep Garden]]
 - Lots of old magical and physical security, from the civilization *before* the one that ended 1000 years ago, attempt to keep functioning but lots broken or decayed
 - Wren is able to read the ancient Sylvan with warnings about not harming plants, take only what you need, don't mess with the Keepers
