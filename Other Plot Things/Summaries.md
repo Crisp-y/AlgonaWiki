@@ -31,3 +31,10 @@
 30. Renée and Alecosta attempt a peaceful rescue, then have their prison break interrupted
 31. The team reunite, win the case and get summoned by Muta
 32. We learn of the possible attack on the expo and make our plans
+33. We gather reinforcements and find the square's security wanting
+	1. A 1-on-1 session
+34. Grey steals some helpful documents and pink shenanigans occur
+	1. Short episode - we read the documents
+35. We investigate and clear some of the warehouses of supplies ahead of the expo
+36. The expo begins and we start investigating the projects
+37. 

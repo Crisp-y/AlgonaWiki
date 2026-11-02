@@ -15,7 +15,10 @@
 	- Mention of The Hermit in Amalenia's message - EK?
 - The Earl King knew Alecosta already...
 - Why are the episodes after EK's challenge named like dances?
-- What happened to the Deep Garden?
+- What happened to the Deep Garden in the far past?
 	- Dwarven automaton that broke in and shot or overrode the automata
+- Both [[Adelaide Pierce]] and [[Torag]] have mentioned things that seem odd
+	- Torag knew of seliae and soyhi which are gods forgotten by the knowing races/skybound people
+	- Adelaide implied she wasn't from the aerocontinents - citation needed
 - Tilly can be controlled or possessed and marked AUTPPC-01H
 	- !! is this the same H that Alecosta was summoned to in [[Session 21 - Lockstep Waltz]]
