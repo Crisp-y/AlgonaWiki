@@ -62,6 +62,34 @@
             }
           },
           {
+            "id": "9dfd9f700eeaed0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 34 - Tickled Pink.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 34 - Tickled Pink"
+            }
+          },
+          {
+            "id": "d2492457cb057a4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wren/Backstory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Backstory"
+            }
+          },
+          {
             "id": "9e14e56f35513b56",
             "type": "leaf",
             "state": {
@@ -90,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -265,11 +293,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79e84bf8dcafb13e",
+  "active": "b371d6a51aee1cf6",
   "lastOpenFiles": [
-    "EpisodeTitles.png",
+    "Wren/Backstory.md",
+    "Sessions/Session 34 - Tickled Pink.md",
     "Sessions/Session 37 - Profit, Pettiness, and Pinhole Cameras.md",
     "Other Plot Things/Summaries.md",
+    "EpisodeTitles.png",
     "Sessions/Session 36 - No Clues Whatsoever.md",
     "Other Plot Things/Significant Plot Points.md",
     "Other Plot Things/Gods of Algona.md",
@@ -280,7 +310,6 @@
     "Sessions/Session 04 - Taking Off.md",
     "Sessions/Session 34.5 - Short and Sweet.md",
     "Other Plot Things/Very Basic History.md",
-    "Sessions/Session 34 - Tickled Pink.md",
     "Locations and Organisations/Heirs of the Mist.md",
     "Locations and Organisations/Mana Corps.md",
     "Sessions/Session 33 - Return to Center.md",
