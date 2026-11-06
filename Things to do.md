@@ -2,7 +2,8 @@
 - Episodes titles since photo
 	- 47 deus ex alecosta
 	- 48 Lore relevant aftercare
-	- 49 t of ship crunchery
+	- 49 it's dangerous to go alone, take this
+	- ? t of ship crunchery
 - Weird episodes
 	- 34.5 is everyone present but only 20min long
 	- 39A dear friend daughter was Tilly downtime in cat court

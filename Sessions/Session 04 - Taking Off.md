@@ -3,7 +3,7 @@ Players: [[Wren Littlefoot]], [[Renée Lightborn]], [[Neko Lightwing]]
 # Key Events
 - The crystals the attackers in [[Session 02 - Rumble in the Mana Corps]] used shouldn't be available to the public (the [[Heirs of the Mist]])
 - Briefed that this job is big because of the donations from [[Viscountess Lyns]] and that the general do not know about us
-	- Fear [[Knight Feather Armada]] will attack as they are upset for her shipping to [[non-continentals]]
+	- Fear [[Nightfeather Armada]] will attack as they are upset for her shipping to [[non-continentals]]
 	- We should protect [[Lyn's Pride]] at all costs
 - A private ship escorts us to the dock, piloted by [[Marissa Tanerit]]
 - Meet crew #TODO 

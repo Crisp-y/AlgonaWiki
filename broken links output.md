@@ -1,5 +1,5 @@
 Don't forget that creating the file from here may create the file in the wrong directory!
-- [[Knight Feather Armada]] in [[Characters/Clover]], [[Characters/Viscountess Lyns]], [[Sessions/Session 04 - Taking Off]], [[Sessions/Session 12 - Is the Greener Pastures]], [[Other Plot Things/Significant Plot Points]]
+- [[Nightfeather Armada]] in [[Characters/Clover]], [[Characters/Viscountess Lyns]], [[Sessions/Session 04 - Taking Off]], [[Sessions/Session 12 - Is the Greener Pastures]], [[Other Plot Things/Significant Plot Points]]
 - [[Lyn's Pride]] in [[Characters/Marissa Tanerit]], [[Sessions/Session 03 - Catching Up]], [[Sessions/Session 04 - Taking Off]], [[Sessions/Session 09 - Gritty Fantasticism]]
 - [[The Lyn's Share Trading Company]] in [[Characters/Viscountess Lyns]], [[Sessions/Session 03 - Catching Up]], [[Sessions/Session 12 - Is the Greener Pastures]], [[Other Plot Things/Significant Plot Points]]
 - [[Pyrl]] in [[Characters/Viscountess Lyns]], [[Sessions/Session 08 - Adventure, and Snacks]]

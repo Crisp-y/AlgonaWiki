@@ -8,7 +8,7 @@
 	- breaking into [[Deep Garden]] to research the [[Wereravens]]
 	- Being celestial but not aasimar, seemed to hate [[Renée Lightborn]]
 	- has natural mana circuitry
-- [[Knight Feather Armada]] took credit for the threats before Clover's attacks
+- [[Nightfeather Armada]] took credit for the threats before Clover's attacks
 - ? [[Neko Lightwing]]'s arrest?
 - [[The Earl King]] making a deal with [[Amalenia]] for the [[Deep Garden]]
 	- Things were going weird before then but also worse after

@@ -16,7 +16,7 @@
 ![[Clover.png]]
 
 # Connections
-- Maybe [[Knight Feather Armada]]?
+- Maybe [[Nightfeather Armada]]?
 
 # Episodes
 - 

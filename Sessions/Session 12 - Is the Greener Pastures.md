@@ -4,7 +4,7 @@ Players: [[Wren Littlefoot]], [[Renée Lightborn]], [[Neko Lightwing]]
 - Meet with [[Leanne Terris]], new mission because other trading companies have been threatened
 - [[Willow Root Trading Company]] was the only credible one but they are big competitors with [[The Lyn's Share Trading Company]]
 	- Much more lowkey and vet all items instead of Lyn's full secrecy
-	- Threat once again supposedly made by [[Knight Feather Armada]]
+	- Threat once again supposedly made by [[Nightfeather Armada]]
 	- Run by [[Lord Azek Riverstone]], peerage of [[Trytal Empire]]
 	- [[Agent Erian]] is the logistics manager
 	- Main base in [[Athra]], Trytal, but their [[Council City]] warehouse has been threatened
